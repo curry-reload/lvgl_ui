@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-    <!--
-      Keep this file at the repository root so LVGL Pro recognizes
-      the directory as a Project instead of a Component Library.
+    <target name="pc_simulator">
+        <display
+            name="main"
+            hor_res="320"
+            ver_res="240"
+            color_format="RGB565"
+        />
+    </target>
 
+    <!--
       Add shared component libraries here when needed, e.g.
 
       <folders>
