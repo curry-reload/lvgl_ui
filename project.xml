@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <!--
+      Keep this file at the repository root so LVGL Pro recognizes
+      the directory as a Project instead of a Component Library.
+
+      Add shared component libraries here when needed, e.g.
+
+      <folders>
+          <folder path="../shared-ui-library" />
+      </folders>
+    -->
+</project>

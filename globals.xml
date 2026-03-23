@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globals>
+    <subjects>
+        <int name="demo_value" value="32"/>
+        <string name="app_title" value="LVGL Pro Simulator"/>
+    </subjects>
+
+    <styles>
+        <style
+            name="screen_base"
+            bg_color="0x0f172a"
+            bg_opa="100%"
+            text_color="0xf8fafc"
+        />
+        <style
+            name="panel"
+            bg_color="0x1e293b"
+            bg_opa="100%"
+            radius="16"
+            pad_all="16"
+        />
+    </styles>
+</globals>
